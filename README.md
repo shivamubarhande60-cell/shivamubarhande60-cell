@@ -3,9 +3,11 @@
 
 🎓 Computer Engineering Student @ Ajeenkya DY Patil School of Engineering, Pune · 💻 Full-Stack Developer | Java & Backend Engineering · 📍 Pune, Maharashtra, India
 
- 🎯 Class of 2027 · Seeking Software Engineering Intern and Java Developer roles
+🎯 Class of 2027 · Seeking Software Engineering Intern and Java Developer roles
 
 🧠 150+ LeetCode problems solved in Java
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -47,11 +49,13 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Slack OAuth](https://img.shields.io/badge/Slack_OAuth-4A154B?style=flat-square&logo=slack&logoColor=white)
 ![xAI Grok API](https://img.shields.io/badge/xAI_Grok_API-000000?style=flat-square)
+
+---
 
 ## 🚀 Projects
 
@@ -64,10 +68,14 @@
 
 <sub>ReachInbox's hosted demo simulates delivery because Render's free plan blocks outgoing SMTP. Real test sending was tested locally using Ethereal SMTP.</sub>
 
+---
+
 ## 💼 Experience & Certifications
 
 - **Full Stack Web Development Intern** — GrowthPixel Pvt. Ltd., Pune *(January–February 2026)*
 - **Foundation Course in Green Skills and Artificial Intelligence** — Edunet Foundation, AICTE, Shell India *(July 2025)*
+
+---
 
 ## 👥 Team Project
 
@@ -81,11 +89,15 @@ A collaborative project exploring AI-assisted, age-aware developmental and learn
 
 **Team repositories:** [Backend](https://github.com/shivamubarhande60-cell/nexus-backend) · [Frontend](https://github.com/shivamubarhande60-cell/nexus-frontend) · [Machine Learning](https://github.com/shivamubarhande60-cell/nexus-ml)
 
+---
+
 ## 🤖 AI & LLM Integration
 
 - **FINOVA AI copilot:** Provides insights about the signed-in user's financial transactions, scoped to that user's data.
 - **LLM API integration:** Integrates the xAI Grok API into an application workflow, including prompt handling and response processing.
 - **Responsible AI:** Focuses on insights grounded in application data and appropriate access to user information.
+
+---
 
 ## 📊 GitHub Stats
 
@@ -98,11 +110,15 @@ A collaborative project exploring AI-assisted, age-aware developmental and learn
   <img src="https://streak-stats.demolab.com?user=shivamubarhande60-cell&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 </p>
 
+---
+
 ## 🎯 Currently Working On
 
 - Practising Data Structures & Algorithms in Java.
 - Adding tests and CI to my projects.
 - Improving backend reliability and software engineering practices.
+
+---
 
 ## 🤝 Connect With Me
 
