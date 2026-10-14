@@ -1,10 +1,9 @@
+
 # Hi, I'm Shivam Ubarhande 👋
 
-🎓 Computer Engineering Student @ Ajeenkya DY Patil School of Engineering, Pune · 💻 Full Stack Developer | Java & Backend Engineering · 📍 Pune, Maharashtra, India
+🎓 Computer Engineering Student @ Ajeenkya DY Patil School of Engineering, Pune · 💻 Full-Stack Developer | Java & Backend Engineering · 📍 Pune, Maharashtra, India
 
 🎯 Class of 2027 · Seeking Software Engineering Intern and Java Developer roles
-
----
 
 ## 🛠️ Tech Stack
 
@@ -28,7 +27,6 @@
 
 **Backend & APIs**
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
@@ -49,10 +47,9 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Slack OAuth](https://img.shields.io/badge/Slack_OAuth-4A154B?style=flat-square&logo=slack&logoColor=white)
 ![xAI Grok API](https://img.shields.io/badge/xAI_Grok_API-000000?style=flat-square)
-
----
 
 ## 🚀 Projects
 
@@ -61,84 +58,49 @@
 | [**FINOVA**](https://github.com/shivamubarhande60-cell/finova) | Personal finance manager with a transaction ledger, budgets, financial goals, analytics, OTP authentication, and an AI copilot scoped to the signed-in user's transactions. | React · TypeScript · TanStack Start · Zustand · Recharts |
 | [**ReachInbox Email Scheduler**](https://github.com/shivamubarhande60-cell/reachinbox-email-scheduler) | Email campaign scheduler with delayed BullMQ jobs, Redis-backed processing, retry and recovery handling, sender rate limits, Slack OAuth notifications, and Elasticsearch search. | TypeScript · React · Express · BullMQ · Redis · MySQL · Elasticsearch |
 
-<!--
-When the repos are public and have a README, copy these two rows into the table above
-(no blank line between rows), replace REPO-NAME, and delete this comment.
-
-| [**MoneyTrail AI**](https://github.com/shivamubarhande60-cell/REPO-NAME) | Personal finance platform with a Java Spring Boot backend and a React frontend. | Java · Spring Boot · React |
-| [**ForgeFlow**](https://github.com/shivamubarhande60-cell/REPO-NAME) | Project management tool for engineering teams with a Kanban board and analytics. | React · Express · MongoDB |
--->
-
 **Live demos:** [FINOVA](https://finova-two.vercel.app/) · [ReachInbox](https://reachinbox-email-scheduler-eaqb.onrender.com/)
 
-<sub>ReachInbox's hosted demo simulates delivery because Render's free plan blocks outgoing SMTP. Real sending was tested locally using Ethereal SMTP.</sub>
-
----
+<sub>ReachInbox's hosted demo simulates delivery because Render's free plan blocks outgoing SMTP. Real test sending was tested locally using Ethereal SMTP.</sub>
 
 ## 💼 Experience & Certifications
 
 - **Full Stack Web Development Intern** — GrowthPixel Pvt. Ltd., Pune *(January–February 2026)*
 - **Foundation Course in Green Skills and Artificial Intelligence** — Edunet Foundation, AICTE, Shell India *(July 2025)*
 
----
-
----
- 
----
-
 ## 👥 Team Project
 
 ### 🧠 AI-Based Autism & Learning Disability Screening Platform
-**Role: Team Lead · Team: Nexus**
+
+**Role:** Team Lead · **Team:** Nexus
 
 A collaborative project exploring AI-assisted, age-aware developmental and learning screening support for children. The platform is designed to organize observations and support further professional evaluation—not to diagnose autism or learning disabilities.
 
 **Project components:** Backend · Frontend · Machine Learning
 
-**Team repositories:** [Backend](https://github.com/shivamubarhande60-cell/nexus-backend) · [Frontend](https://github.com/shivamubarhande60-cell/nexus-frontend) · [ML](https://github.com/shivamubarhande60-cell/nexus-ml)
-
-
-
+**Team repositories:** [Backend](https://github.com/shivamubarhande60-cell/nexus-backend) · [Frontend](https://github.com/shivamubarhande60-cell/nexus-frontend) · [Machine Learning](https://github.com/shivamubarhande60-cell/nexus-ml)
 
 ## 🤖 AI & LLM Integration
 
-- **AI copilot in [FINOVA](https://github.com/shivamubarhande60-cell/finova):** answers questions about the signed-in user's own transactions and is scoped to that user's data, so it never sees anyone else's.
-- **LLM API integration:** calling LLM APIs (xAI Grok API) from backend services, handling prompts, responses and errors.
-- **Where I use it:** features that explain data to users, such as spending summaries and answers about their own records.
-- **Coursework:** Foundation Course in Green Skills and Artificial Intelligence (Edunet Foundation, AICTE, Shell India, July 2025).
-
-<!--
-Add these once the repos are public and have a README:
-
-- **AI summaries in [ForgeFlow](https://github.com/shivamubarhande60-cell/REPO-NAME):** AI-generated summaries of engineering team activity.
-- **AI layer in [MoneyTrail AI](https://github.com/shivamubarhande60-cell/REPO-NAME):** an agent layer on top of the Java Spring Boot backend.
--->
-
----
+- **FINOVA AI copilot:** Provides insights about the signed-in user's financial transactions, scoped to that user's data.
+- **LLM API integration:** Integrates the xAI Grok API into an application workflow, including prompt handling and response processing.
+- **Responsible AI:** Focuses on insights grounded in application data and appropriate access to user information.
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shivamubarhande60-cell&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="Shivam's GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shivamubarhande60-cell&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Shivam's GitHub Stats"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamubarhande60-cell&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shivamubarhande60-cell&theme=tokyonight&hide_border=true" alt="Contribution Streak"/>
+  <img src="https://streak-stats.demolab.com?user=shivamubarhande60-cell&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamubarhande60-cell&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph"/>
-</p>
-
----
 
 ## 🎯 Currently Working On
 
-- Practising data structures and algorithms in Java
-- Adding tests and CI to my projects
-
----
+- Practising Data Structures & Algorithms in Java.
+- Adding tests and CI to my projects.
+- Improving backend reliability and software engineering practices.
 
 ## 🤝 Connect With Me
 
