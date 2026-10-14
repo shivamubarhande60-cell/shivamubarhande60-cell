@@ -1,7 +1,8 @@
-
 # Hi, I'm Shivam Ubarhande 👋
 
 🎓 Computer Engineering Student @ Ajeenkya DY Patil School of Engineering, Pune · 💻 Full Stack Developer | Java & Backend Engineering · 📍 Pune, Maharashtra, India
+
+🎯 Class of 2027 · Seeking Software Engineering Intern and Java Developer roles
 
 ---
 
@@ -27,6 +28,7 @@
 
 **Backend & APIs**
 
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
@@ -59,6 +61,14 @@
 | [**FINOVA**](https://github.com/shivamubarhande60-cell/finova) | Personal finance manager with a transaction ledger, budgets, financial goals, analytics, OTP authentication, and an AI copilot scoped to the signed-in user's transactions. | React · TypeScript · TanStack Start · Zustand · Recharts |
 | [**ReachInbox Email Scheduler**](https://github.com/shivamubarhande60-cell/reachinbox-email-scheduler) | Email campaign scheduler with delayed BullMQ jobs, Redis-backed processing, retry and recovery handling, sender rate limits, Slack OAuth notifications, and Elasticsearch search. | TypeScript · React · Express · BullMQ · Redis · MySQL · Elasticsearch |
 
+<!--
+When the repos are public and have a README, copy these two rows into the table above
+(no blank line between rows), replace REPO-NAME, and delete this comment.
+
+| [**MoneyTrail AI**](https://github.com/shivamubarhande60-cell/REPO-NAME) | Personal finance platform with a Java Spring Boot backend and a React frontend. | Java · Spring Boot · React |
+| [**ForgeFlow**](https://github.com/shivamubarhande60-cell/REPO-NAME) | Project management tool for engineering teams with a Kanban board and analytics. | React · Express · MongoDB |
+-->
+
 **Live demos:** [FINOVA](https://finova-two.vercel.app/) · [ReachInbox](https://reachinbox-email-scheduler-eaqb.onrender.com/)
 
 <sub>ReachInbox's hosted demo simulates delivery because Render's free plan blocks outgoing SMTP. Real sending was tested locally using Ethereal SMTP.</sub>
@@ -75,9 +85,24 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shivamubarhande60-cell&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Shivam's GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamubarhande60-cell&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shivamubarhande60-cell&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="Shivam's GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamubarhande60-cell&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shivamubarhande60-cell&theme=tokyonight&hide_border=true" alt="Contribution Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamubarhande60-cell&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph"/>
+</p>
+
+---
+
+## 🎯 Currently Working On
+
+- Practising data structures and algorithms in Java
+- Adding tests and CI to my projects
 
 ---
 
