@@ -1,4 +1,4 @@
-# Hi, I'm Shivam Ubarhande 👋
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d23e31a6-699e-42c4-b9ee-0d701b003787" /># Hi, I'm Shivam Ubarhande 👋
 
 ### 💻 Computer Engineering Student | Aspiring Software Engineer
 
@@ -37,18 +37,28 @@
 
 ---
 
-## 🚀 Featured Projects
+ ## 🚀 Featured Projects
 
-### 💰 FINOVA
-An AI-powered personal finance management platform focused on financial tracking and analytics.
+### 💰 [FINOVA](https://github.com/shivamubarhande60-cell/finova)
+**Personal Finance Management Platform**
+
+A finance platform designed to simplify expense tracking and turn financial data into actionable insights.
+
+`TypeScript` `Finance Analytics` `AI Integration`
 
 ### ⚙️ ForgeFlow
-An engineering intelligence platform focused on project workflows, sprint analytics, and AI-assisted insights.
+**Engineering Intelligence Platform**
+
+A platform concept focused on project workflows, sprint analytics, and AI-assisted engineering insights.
+
+`React` `Node.js` `MongoDB` `Analytics`
 
 ### 🧩 DigiDev AI
-A developmental and learning screening-support platform designed to support children, parents, teachers, and clinicians.
+**Developmental & Learning Screening Support**
 
----
+An age-aware screening-support platform designed to help parents, teachers, and clinicians organize developmental and learning observations.
+
+`AI` `Full-Stack Development` `Educational Technology`
 
 ## 🎯 Current Focus
 
