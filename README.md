@@ -3,7 +3,9 @@
 
 🎓 Computer Engineering Student @ Ajeenkya DY Patil School of Engineering, Pune · 💻 Full-Stack Developer | Java & Backend Engineering · 📍 Pune, Maharashtra, India
 
-🎯 Class of 2027 · Seeking Software Engineering Intern and Java Developer roles
+ 🎯 Class of 2027 · Seeking Software Engineering Intern and Java Developer roles
+
+🧠 150+ LeetCode problems solved in Java
 
 ## 🛠️ Tech Stack
 
