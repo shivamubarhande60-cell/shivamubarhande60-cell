@@ -82,6 +82,22 @@ When the repos are public and have a README, copy these two rows into the table 
 
 ---
 
+## 🤖 AI & LLM Integration
+
+- **AI copilot in [FINOVA](https://github.com/shivamubarhande60-cell/finova):** answers questions about the signed-in user's own transactions and is scoped to that user's data, so it never sees anyone else's.
+- **LLM API integration:** calling LLM APIs (xAI Grok API) from backend services, handling prompts, responses and errors.
+- **Where I use it:** features that explain data to users, such as spending summaries and answers about their own records.
+- **Coursework:** Foundation Course in Green Skills and Artificial Intelligence (Edunet Foundation, AICTE, Shell India, July 2025).
+
+<!--
+Add these once the repos are public and have a README:
+
+- **AI summaries in [ForgeFlow](https://github.com/shivamubarhande60-cell/REPO-NAME):** AI-generated summaries of engineering team activity.
+- **AI layer in [MoneyTrail AI](https://github.com/shivamubarhande60-cell/REPO-NAME):** an agent layer on top of the Java Spring Boot backend.
+-->
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
