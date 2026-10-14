@@ -82,6 +82,23 @@ When the repos are public and have a README, copy these two rows into the table 
 
 ---
 
+---
+
+## 👥 Team Project
+
+### Nexus — Developmental & Learning Screening Support
+
+**Role: Team Lead**
+
+A collaborative project focused on developmental and learning screening support, with separate backend, frontend, and machine-learning components.
+
+- Assigned project tasks and coordinated work across team members.
+- Coordinated progress across the backend, frontend, and ML workstreams.
+- Focused on building a screening-support platform, not a diagnostic system.
+
+**Project repositories:** [Backend](https://github.com/shivamubarhande60-cell/nexus-backend) · [Frontend](https://github.com/shivamubarhande60-cell/nexus-frontend) · [ML](https://github.com/shivamubarhande60-cell/nexus-ml)
+
+
 ## 🤖 AI & LLM Integration
 
 - **AI copilot in [FINOVA](https://github.com/shivamubarhande60-cell/finova):** answers questions about the signed-in user's own transactions and is scoped to that user's data, so it never sees anyone else's.
