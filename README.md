@@ -58,6 +58,15 @@ A project focused on streamlining engineering workflows, visualizing sprint anal
 
 `React` `Node.js` `MongoDB` `Analytics`
 
+### 📧 [ReachInbox Email Scheduler](https://github.com/shivamubarhande60-cell/reachinbox-email-scheduler)
+**Full-Stack Email Scheduling Platform**
+
+A full-stack application for composing and scheduling emails, configuring SMTP senders, and tracking scheduled and sent messages through a dashboard.
+
+`TypeScript` `React` `Node.js` `Express` `Email Scheduling`
+
+[🌐 Live Demo](https://reachinbox-email-scheduler-eaqb.onrender.com) · [💻 Source Code](https://github.com/shivamubarhande60-cell/reachinbox-email-scheduler)
+
 ### 🧩 DigiDev AI
 **Developmental & Learning Screening Support**
 
