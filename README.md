@@ -83,20 +83,21 @@ When the repos are public and have a README, copy these two rows into the table 
 ---
 
 ---
+ 
+---
 
 ## 👥 Team Project
 
-### Nexus — Developmental & Learning Screening Support
+### 🧠 AI-Based Autism & Learning Disability Screening Platform
+**Role: Team Lead · Team: Nexus**
 
-**Role: Team Lead**
+A collaborative project exploring AI-assisted, age-aware developmental and learning screening support for children. The platform is designed to organize observations and support further professional evaluation—not to diagnose autism or learning disabilities.
 
-A collaborative project focused on developmental and learning screening support, with separate backend, frontend, and machine-learning components.
+**Project components:** Backend · Frontend · Machine Learning
 
-- Assigned project tasks and coordinated work across team members.
-- Coordinated progress across the backend, frontend, and ML workstreams.
-- Focused on building a screening-support platform, not a diagnostic system.
+**Team repositories:** [Backend](https://github.com/shivamubarhande60-cell/nexus-backend) · [Frontend](https://github.com/shivamubarhande60-cell/nexus-frontend) · [ML](https://github.com/shivamubarhande60-cell/nexus-ml)
 
-**Project repositories:** [Backend](https://github.com/shivamubarhande60-cell/nexus-backend) · [Frontend](https://github.com/shivamubarhande60-cell/nexus-frontend) · [ML](https://github.com/shivamubarhande60-cell/nexus-ml)
+
 
 
 ## 🤖 AI & LLM Integration
